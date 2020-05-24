@@ -199,15 +199,15 @@
 
                             </li>
                             <li class="uk-card  uk-card-body ">
-                                <img  src="static/bancos_small/efecty.svg" style="width: 230px" alt="efecty" class="banco uk-position-center">
+                                <img src="static/bancos_small/efecty.svg" style="width: 230px" alt="efecty" class="banco uk-position-center">
 
                             </li>
                             <li class="uk-card  uk-card-body">
-                                <img  src="static/bancos_small/pse.svg" alt="pse" class="uk-position-center">
+                                <img src="static/bancos_small/pse.svg" alt="pse" class="uk-position-center">
 
                             </li>
                             <li class="uk-card  uk-card-body">
-                                <img  src="static/bancos_small/bancolombia.svg" style="width: 200px" alt="banco bancolombia" class="uk-position-center">
+                                <img src="static/bancos_small/bancolombia.svg" style="width: 200px" alt="banco bancolombia" class="uk-position-center">
 
                             </li>
                             <li class="uk-card  uk-card-body">
@@ -228,8 +228,80 @@
             </div>
         </div>
     </div>
-    <hr>
 
+    <div class=" pb-5 pt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <h2 style="font-weight: bold; color: #008458">Servicios que puedes cancelar aquí</h2>
+                </div>
+                <div class="col-md-12 text-center">
+                    <div class="uk-child-width-1-2@s uk-grid-match" uk-grid>
+                        <div>
+                            <div class="uk-card uk-card-hover uk-card-small uk-card-body uk-column-1-2 uk-column-divider">
+                                <div class="uk-card-header">
+                                    <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                        <div class="uk-width-auto">
+                                            <img class="uk-border-circle" width="100" height="40" src="static/bancos/pse.png">
+                                        </div>
+                                        <div class="uk-width-expand">
+                                            <h4 class="uk-card-title uk-margin-remove-bottom">NICHO</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="uk-card uk-card-hover uk-card-small uk-card-body uk-column-1-2 uk-column-divider">
+                                <div class="uk-card-header">
+                                    <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                        <div class="uk-width-auto">
+                                            <img class="uk-border-circle" width="100" height="40" src="static/bancos/pse.png">
+                                        </div>
+                                        <div class="uk-width-expand">
+                                            <h4 class="uk-card-title uk-margin-remove-bottom">NICHO</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="uk-card uk-card-hover uk-card-small uk-card-body uk-column-1-2 uk-column-divider">
+                                <div class="uk-card-header">
+                                    <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                        <div class="uk-width-auto">
+                                            <img class="uk-border-circle" width="100" height="40" src="static/bancos/pse.png">
+                                        </div>
+                                        <div class="uk-width-expand">
+                                            <h4 class="uk-card-title uk-margin-remove-bottom">NICHO</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="uk-card uk-card-hover uk-card-small uk-card-body uk-column-1-2 uk-column-divider">
+                                <div class="uk-card-header">
+                                    <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                        <div class="uk-width-auto">
+                                            <img class="uk-border-circle" width="100" height="40" src="static/bancos/pse.png">
+                                        </div>
+                                        <div class="uk-width-expand">
+                                            <h4 class="uk-card-title uk-margin-remove-bottom">NICHO</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <div class="inquietud pb-5 pt-5">
         <div class="container">
@@ -248,87 +320,21 @@
         </div>
     </div>
 
-    <div class="container pt-5">
-        <div class="row">
-            <div class="col-md-12 text-center mt-3 mb-3">
-                <h1 style="font-weight: bold; color: #008458">Conoce todas nuestras opciones de pago</h1>
+    <div class="uk-background-muted pb-5 pt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <h2 style="font-weight: bold; color: #008458">¿Aún no sabes cómo pagar?</h2>
+                </div>
+                <div class="col-md-12 text-center">
+                    <iframe class="uk-card uk-card-default" src="https://www.youtube-nocookie.com/embed/c2pz2mlSfXA?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1" width="800" height="450" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true"></iframe>
+                </div>
             </div>
         </div>
     </div>
-
-    <div class="container cont" style="margin-top: 20px; margin-bottom: 20px">
-        <div class="row">
-            <div class="col-md-4 d-flex justify-content-center mt-3 mb-3">
-                <div class="content d-flex align-content-center">
-                    <img src="static/bancos_small/bbva.svg" style="width: 200px" alt="banco bbva" class="banco">
-                </div>
-            </div>
-            <div class="col-md-4 d-flex justify-content-center mt-3 mb-3">
-                <div class="content d-flex align-content-center">
-                    <img src="static/bancos_small/cajasocial.svg" style="width: 200px" alt="banco caja social" class="banco">
-                </div>
-
-            </div>
-            <div class="col-md-4 d-flex justify-content-center mt-3 mb-3">
-                <div class="content d-flex align-content-center">
-                    <img src="static/bancos_small/cooper.svg" alt="banco cooper" style="width: 200px" class="banco">
-                </div>
-
-            </div>
-        </div>
-        <div class="row banco_fila" style="margin-top: 60px">
-            <div class="col-md-4 d-flex justify-content-center mt-3 mb-3">
-                <div class="content d-flex align-content-center">
-                    <img src="static/bancos_small/davivienda.svg" style="width: 200px" alt="banco davivienda" class="banco">
-                </div>
-
-            </div>
-            <div class="col-md-4 d-flex justify-content-center mt-3 mb-3">
-                <div class="content d-flex align-content-center">
-                    <img src="static/bancos_small/efecty.svg" style="width: 230px" alt="efecty" class="banco">
-                </div>
-
-            </div>
-            <div class="col-md-4 d-flex justify-content-center mt-3 mb-3">
-                <div class="content d-flex align-content-center">
-                    <img src="static/bancos_small/pse.svg" alt="pse">
-                </div>
-
-            </div>
-        </div>
-
-        <div class="row banco_fila" style="margin-top: 60px">
-            <div class="col-md-4 d-flex justify-content-center mt-3 mb-3">
-                <div class="content d-flex align-content-center">
-                    <img src="static/bancos_small/bancolombia.svg" style="width: 200px" alt="banco bancolombia" class="banco">
-                </div>
-
-            </div>
-            <div class="col-md-4 d-flex justify-content-center mt-3 mb-3">
-                <div class="content d-flex align-content-center">
-                    <img src="static/bancos_small/supergiros.svg" alt="supergiros" style="width: 250px" class="banco">
-                </div>
-
-            </div>
-            <div class="col-md-4 d-flex justify-content-center mt-3 mb-3">
-                <div class="content d-flex align-content-center">
-                    <img src="static/bancos_small/occidente.svg" style="width: 200px" alt="banco occidente" class="banco">
-                </div>
-
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12 d-flex justify-content-center mt-3 mb-3">
-                <h2 class="font-weight-bold" style="color: #008458">Operador logístico</h2>
-            </div>
-            <div class="col-md-12 text-center">
-                <h4>Cel: 3013587009 - 31764442264</h4>
-                <br>
-                <h4>Tel: 6529480</h4>
-            </div>
-        </div>
+    <div id="subir">
+        <a uk-tooltip="title: IR AL INICIO; pos: left" href="#" uk-totop uk-scroll style="color: white; padding-top: 19px; padding-left: 16px;"></a>
     </div>
-
     <footer>
         <div class="container">
             <div class="row">
