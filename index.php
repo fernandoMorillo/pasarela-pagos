@@ -315,7 +315,6 @@
                                         <div class="uk-width-expand">
                                             <h4 class="uk-card-title uk-margin-remove-bottom">NICHO</h4>
                                         </div>
-=======
                             </a>
                         </div>
                     </div>
@@ -334,7 +333,6 @@
                                 <div class="uk-grid-small uk-flex-middle" uk-grid>
                                     <div class="uk-width-auto">
                                         <img class="uk-border-circle" width="140" height="40" src="static/bancos/CENIZARIO.png">
->>>>>>> dev
                                     </div>
                                 </div>
                             </div><br>
