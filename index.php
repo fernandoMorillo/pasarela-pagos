@@ -47,7 +47,6 @@
     </script>
     <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=812915559215970&ev=PageView&noscript=1" /></noscript>
     <!-- End Facebook Pixel Code -->
-
     <title>Pasarela de pagos</title>
 </head>
 
@@ -238,6 +237,16 @@
                 <div class="col-md-12 text-center">
                     <div class="uk-child-width-1-2@s uk-grid-match" uk-grid>
                         <div>
+<<<<<<< HEAD
+                            <div class="uk-card uk-card-hover uk-card-small uk-card-body uk-column-1-2 uk-column-divider">
+                                <div class="uk-card-header">
+                                    <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                        <div class="uk-width-auto">
+                                            <img class="uk-border-circle" width="100" height="40" src="static/bancos/ICONO.png">
+                                        </div>
+                                        <div class="uk-width-expand">
+                                            <h4 class="uk-card-title uk-margin-remove-bottom">NICHO</h4>
+=======
                             <a href="https://www.losolivoscartagena.com/tienda/" target="_blank" style="text-decoration: none;">
                                 <div class="uk-card uk-card-hover uk-card-small uk-card-body uk-column-1-2 uk-column-divider">
                                     <div class="uk-card-header">
@@ -245,6 +254,7 @@
                                             <div class="uk-width-auto">
                                                 <img class="uk-border-circle" width="140" height="40" src="static/bancos/ICONO.png">
                                             </div>
+>>>>>>> dev
                                         </div>
                                     </div>
                                     <br>
@@ -253,6 +263,16 @@
                             </a>
                         </div>
                         <div>
+<<<<<<< HEAD
+                            <div class="uk-card uk-card-hover uk-card-small uk-card-body uk-column-1-2 uk-column-divider">
+                                <div class="uk-card-header">
+                                    <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                        <div class="uk-width-auto">
+                                            <img class="uk-border-circle" width="100" height="40" src="static/bancos/ICONO.png">
+                                        </div>
+                                        <div class="uk-width-expand">
+                                            <h4 class="uk-card-title uk-margin-remove-bottom">NICHO</h4>
+=======
                             <a href="https://www.losolivoscartagena.com/planes/cartagena/" target="_blank" style="text-decoration: none;">
                                 <div class="uk-card uk-card-hover uk-card-small uk-card-body uk-column-1-2 uk-column-divider">
                                     <div class="uk-card-header">
@@ -260,10 +280,41 @@
                                             <div class="uk-width-auto">
                                                 <img class="uk-border-circle" width="140" height="40" src="static/bancos/PLAN.png">
                                             </div>
+>>>>>>> dev
                                         </div>
                                     </div><br>
                                     <h4 class="uk-card-title uk-margin-remove-bottom title-services">PLANES DE PREVISIÓN EXEQUIAL</h4>
                                 </div>
+<<<<<<< HEAD
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="uk-card uk-card-hover uk-card-small uk-card-body uk-column-1-2 uk-column-divider">
+                                <div class="uk-card-header">
+                                    <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                        <div class="uk-width-auto">
+                                            <img class="uk-border-circle" width="100" height="40" src="static/bancos/ICONO.png">
+                                        </div>
+                                        <div class="uk-width-expand">
+                                            <h4 class="uk-card-title uk-margin-remove-bottom">NICHO</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="uk-card uk-card-hover uk-card-small uk-card-body uk-column-1-2 uk-column-divider">
+                                <div class="uk-card-header">
+                                    <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                        <div class="uk-width-auto">
+                                            <img class="uk-border-circle" width="100" height="40" src="static/bancos/ICONO.png">
+                                        </div>
+                                        <div class="uk-width-expand">
+                                            <h4 class="uk-card-title uk-margin-remove-bottom">NICHO</h4>
+                                        </div>
+=======
                             </a>
                         </div>
                     </div>
@@ -282,6 +333,7 @@
                                 <div class="uk-grid-small uk-flex-middle" uk-grid>
                                     <div class="uk-width-auto">
                                         <img class="uk-border-circle" width="140" height="40" src="static/bancos/CENIZARIO.png">
+>>>>>>> dev
                                     </div>
                                 </div>
                             </div><br>
@@ -320,12 +372,6 @@
                 </div>
                 <div class="col-md-12 text-center">
                     <video src="static/bancos/pagos.webm" width="800" height="450" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true" controls></video>
-                    <!-- <video controls>
-                        <source src=static/bancos/pagos.ogg type="video/ogg">
-                        <source src="static/bancos/pagos.mp4" type="video/mp4">
-                        Tu navegador no implementa el elemento <code>video</code>.
-                    </video> -->
-                    <!-- <iframe class="uk-card uk-card-default" src="static/bancos/pagos.mp4" width="800" height="450" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true"></iframe> -->
                 </div>
             </div>
         </div>
