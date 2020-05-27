@@ -373,12 +373,6 @@
                 </div>
                 <div class="col-md-12 text-center">
                     <video src="static/bancos/pagos.webm" width="800" height="450" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true" controls></video>
-                    <!-- <video controls>
-                        <source src=static/bancos/pagos.ogg type="video/ogg">
-                        <source src="static/bancos/pagos.mp4" type="video/mp4">
-                        Tu navegador no implementa el elemento <code>video</code>.
-                    </video> -->
-                    <!-- <iframe class="uk-card uk-card-default" src="static/bancos/pagos.mp4" width="800" height="450" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true"></iframe> -->
                 </div>
             </div>
         </div>
