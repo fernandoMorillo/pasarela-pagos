@@ -56,7 +56,7 @@
     <div class="sec_form">
         <div class="filtro"></div>
         <nav class="navbar navbar-light bg-transparent" style="z-index: 3">
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="https://www.losolivoscartagena.com">
                 <img src="static/logo-blanco.png" width="70" height="70" alt="">
             </a>
         </nav>
@@ -179,9 +179,9 @@
                 </div>
 
                 <div class="col-md-12 text-center">
-                    <div class="uk-position-relative uk-flex uk-animation-toggle" tabindex="-1" uk-slider>
+                    <div class="uk-position-relative uk-flex uk-animation-toggle" tabindex="-1" uk-slider="autoplay: trueautoplay-interval: 600pause-on-hover: true">
 
-                        <ul class="uk-slider-items uk-child-width-1-2 uk-child-width-1-3@s uk-child-width-1-4@m">
+                        <ul class="uk-slider-items uk-child-width-1-2 uk-child-width-1-3@s uk-child-width-1-4@m ">
                             <li class="uk-card  uk-card-body">
                                 <img style="position: relative; top:18px;" src="static/bancos_small/bbva.svg" style="width: 200px" alt="banco bbva" class="banco">
 
@@ -234,75 +234,67 @@
             <div class="row">
                 <div class="col-md-12 text-center">
                     <h2 style="font-weight: bold; color: #008458">Servicios que puedes cancelar aquí</h2>
-                </div>
+                </div> <br><br>
                 <div class="col-md-12 text-center">
                     <div class="uk-child-width-1-2@s uk-grid-match" uk-grid>
                         <div>
-                            <div class="uk-card uk-card-hover uk-card-small uk-card-body uk-column-1-2 uk-column-divider">
-                                <div class="uk-card-header">
-                                    <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                        <div class="uk-width-auto">
-                                            <img class="uk-border-circle" width="100" height="40" src="static/bancos/pse.png">
-                                        </div>
-                                        <div class="uk-width-expand">
-                                            <h4 class="uk-card-title uk-margin-remove-bottom">NICHO</h4>
+                            <a href="https://www.losolivoscartagena.com/tienda/" target="_blank" style="text-decoration: none;">
+                                <div class="uk-card uk-card-hover uk-card-small uk-card-body uk-column-1-2 uk-column-divider">
+                                    <div class="uk-card-header">
+                                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                            <div class="uk-width-auto">
+                                                <img class="uk-border-circle" width="140" height="40" src="static/bancos/ICONO.png">
+                                            </div>
                                         </div>
                                     </div>
+                                    <br>
+                                    <h4 class="uk-card-title uk-margin-remove-bottom uk-align-center title-services">PRODUCTOS PARQUE CEMENTERIO</h4>
                                 </div>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
-                            </div>
+                            </a>
                         </div>
                         <div>
-                            <div class="uk-card uk-card-hover uk-card-small uk-card-body uk-column-1-2 uk-column-divider">
-                                <div class="uk-card-header">
-                                    <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                        <div class="uk-width-auto">
-                                            <img class="uk-border-circle" width="100" height="40" src="static/bancos/pse.png">
+                            <a href="https://www.losolivoscartagena.com/planes/cartagena/" target="_blank" style="text-decoration: none;">
+                                <div class="uk-card uk-card-hover uk-card-small uk-card-body uk-column-1-2 uk-column-divider">
+                                    <div class="uk-card-header">
+                                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                            <div class="uk-width-auto">
+                                                <img class="uk-border-circle" width="140" height="40" src="static/bancos/PLAN.png">
+                                            </div>
                                         </div>
-                                        <div class="uk-width-expand">
-                                            <h4 class="uk-card-title uk-margin-remove-bottom">NICHO</h4>
-                                        </div>
-                                    </div>
+                                    </div><br>
+                                    <h4 class="uk-card-title uk-margin-remove-bottom title-services">PLANES DE PREVISIÓN EXEQUIAL</h4>
                                 </div>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="uk-card uk-card-hover uk-card-small uk-card-body uk-column-1-2 uk-column-divider">
-                                <div class="uk-card-header">
-                                    <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                        <div class="uk-width-auto">
-                                            <img class="uk-border-circle" width="100" height="40" src="static/bancos/pse.png">
-                                        </div>
-                                        <div class="uk-width-expand">
-                                            <h4 class="uk-card-title uk-margin-remove-bottom">NICHO</h4>
-                                        </div>
-                                    </div>
-                                </div>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="uk-card uk-card-hover uk-card-small uk-card-body uk-column-1-2 uk-column-divider">
-                                <div class="uk-card-header">
-                                    <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                        <div class="uk-width-auto">
-                                            <img class="uk-border-circle" width="100" height="40" src="static/bancos/pse.png">
-                                        </div>
-                                        <div class="uk-width-expand">
-                                            <h4 class="uk-card-title uk-margin-remove-bottom">NICHO</h4>
-                                        </div>
-                                    </div>
-                                </div>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                            </div>
+                            </a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+        <div style="height: 120px;">
 
+        </div>
+        <div class="col-md-12 text-center">
+            <div class="uk-child-width-1-2@s uk-grid-match" uk-grid>
+                <div class="uk-position-center">
+                    <a href="#" target="_blank" style="text-decoration: none;">
+                        <div class="uk-card uk-card-hover uk-card-small uk-card-body uk-column-1-2 uk-column-divider ">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-auto">
+                                        <img class="uk-border-circle" width="140" height="40" src="static/bancos/CENIZARIO.png">
+                                    </div>
+                                </div>
+                            </div><br>
+                            <h4 class="uk-card-title uk-margin-remove-bottom title-services">NECESIDAD INMEDIATA</h4>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <br>
+    <br>
     <div class="inquietud pb-5 pt-5">
         <div class="container">
             <div class="row">
@@ -327,7 +319,13 @@
                     <h2 style="font-weight: bold; color: #008458">¿Aún no sabes cómo pagar?</h2>
                 </div>
                 <div class="col-md-12 text-center">
-                    <iframe class="uk-card uk-card-default" src="https://www.youtube-nocookie.com/embed/c2pz2mlSfXA?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1" width="800" height="450" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true"></iframe>
+                    <video src="static/bancos/pagos.webm" width="800" height="450" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true" controls></video>
+                    <!-- <video controls>
+                        <source src=static/bancos/pagos.ogg type="video/ogg">
+                        <source src="static/bancos/pagos.mp4" type="video/mp4">
+                        Tu navegador no implementa el elemento <code>video</code>.
+                    </video> -->
+                    <!-- <iframe class="uk-card uk-card-default" src="static/bancos/pagos.mp4" width="800" height="450" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true"></iframe> -->
                 </div>
             </div>
         </div>
